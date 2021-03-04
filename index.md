@@ -1,30 +1,8 @@
 ## Chase Quijano's Portfolio
 
 
-```markdown
-Syntax highlighted code block
+# Who am I?
 
-# Header 1
-## Header 2
-### Header 3
+**My name is Chase Quijano, I am 17 and I go to George School. I am very passionate about engineering because, for me, it is a way to help people. I have always loved to take things apart and as I’ve grown older, put my own projects together. Being interested in flight and physics, I started building drones. Later I built a battle bot with spinning copper hammers for my 4H robotics club. In 2018 my FTC team “Robostorm” ranked 26th at worlds in Detroit which was great for a rookie team. Several years ago I built a 3D printer using 3D printed and off the shelf parts and a second one more recently. I have designed and manufactured circuit boards, one of which was a flight computer for a drone that automatically stabilizes the drone while flying. I started the first E-Nable chapter in Princeton, New Jersey; one of two in the state. E-Nable is a network of volunteers around the world who make 3D printed prosthetic limbs for people who need them. In 2017 and 2018 I organized several prosthetic Build-A-Thon’s to print, assemble and donate prosthetic hands. One of which at Princeton Academy, and the other at the New Jersey Institute of Technology. Through these projects I have been able to both develop my engineering skills and give back to my community. Engineering isn’t my only passion though, I am also extremely passionate about writing. Through writing, I can imagine things and places with no limit. I also love to listen to music, specifically rock music (AC/DC, Boston, Billy Joel, David Bowie, Cat Stevens and many more.) I am very passionate about playing guitar as well as piano. I also have in interest in economics and how people make decisions based off of multiple factors such as the time period and the area they were raised in. Business and finance is probably one of the most interesting things for me, I love the process from design to manufacturing and selling. Of course, I love making money as well**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chasequijano/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
